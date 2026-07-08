@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Abdellatif</h1>
+<h1 align="center">Hi I'm Abdellatif</h1>
 
 <h3 align="center">
 Full Stack Developer • React • Next.js • Node.js • Discord Bots
