@@ -137,7 +137,7 @@ GitHub:
 https://github.com/SLOW429
 
 Website:
-https://qsmart-store.com/en
+https://slows.dev
 
 ---
 
