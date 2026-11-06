@@ -1,144 +1,109 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
+ <p align="center">
+  <img src="assets/banner.png" alt="Abdellatif Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi I'm Abdellatif</h1>
+<h1 align="center">Hey, I'm Abdellatif </h1>
 
 <h3 align="center">
-Full Stack Developer • React • Next.js • Node.js • Discord Bots
+  Full-Stack Developer · Java Developer · Automation Engineer
 </h3>
 
 <p align="center">
-I enjoy building modern web applications, automation tools, and scalable Discord bots.
+  I build modern web applications, backend systems, Discord bots, and automation tools.
 </p>
 
 ---
 
-##  About Me
+I'm a developer passionate about building practical software, exploring new technologies, and turning ideas into working products.
 
--  Full Stack Developer
--  Passionate about Web Development & Automation
--  Building Discord Bots & HR Systems
--  Always learning new technologies
+I enjoy working across the stack, from designing user interfaces to developing backend logic and deploying applications.
 
----
+### Focus
 
-#  Tech Stack
+- Full-stack web development
+- Java programming and backend development
+- Discord bot development and automation
+- REST APIs and database management
+- Self-hosted infrastructure and deployment
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
+### Tech Stack
 
-### Backend
-- Node.js
-- Express.js
-- REST API
+<div align="center">
 
-### Database
-- MongoDB
-- MySQL
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,cpp,express,mongodb,mysql,git,github,docker,linux&perline=8" />
 
-### Other
-- Git
-- GitHub
-- Discord.js
-- C++
+</div>
 
----
+### Featured Project
 
-#  Featured Project
+**Q Smart Technology**
 
-##  Q Smart Technology
+E-commerce platform for Q Smart Technology, focused on consumer electronics, accessories, and technology products.
 
-Official E-Commerce Website designed and developed for **Q Smart Technology**.
+- Modern and responsive UI
+- Product catalog and category management
+- Multi-language support
+- E-commerce functionality
 
-### 🔗 Live Website
+🔗 [Visit Q Smart Store](https://qsmart-store.com/en)
 
-https://qsmart-store.com/en
+### Featured Repositories
 
-### Highlights
+**Personal Portfolio**
 
-- Modern UI/UX
-- Responsive Design
-- Product Catalog
-- Shopping Cart
-- Category Management
-- Fast Performance
-- Multi-language Support
+My personal portfolio website showcasing my projects and development journey.
 
----
+🔗 [SLOW429/personal-site](https://github.com/SLOW429/personal-site)
 
-#  Featured Repositories
+**GLU — Work in Progress**
 
-##  Personal Portfolio
-🔗 https://github.com/SLOW429/personal-site
+An ongoing software project currently under development.
 
-Personal portfolio website showcasing my work and experience.
+🔗 [SLOW429/GLU](https://github.com/SLOW429/GLU)
 
----
+**V3 HR BOT**
 
-##  GLU (Work in Progress)
+An advanced Discord HR management bot with improved functionality.
 
-🔗 https://github.com/SLOW429/GLU
+🔗 [SLOW429/V3.0-HR-BOT](https://github.com/SLOW429/V3.0-HR-BOT)
 
-Currently under active development.
+**HR BOT**
 
----
+A Discord bot designed for HR management and server automation.
 
-##  V3 HR BOT
+🔗 [SLOW429/HR-BOT](https://github.com/SLOW429/HR-BOT)
 
-🔗 https://github.com/SLOW429/V3.0-HR-BOT
+**Discord Bot**
 
-Advanced HR Discord bot with improved features.
+A multipurpose Discord bot.
 
----
+🔗 [SLOW429/discord-bot](https://github.com/SLOW429/discord-bot)
 
-##  HR BOT
+**HR Welcome Bot**
 
-🔗 https://github.com/SLOW429/HR-BOT
+An automated welcome system for Discord communities.
 
-Discord HR management bot.
+🔗 [SLOW429/HR-WELLCOME-bot](https://github.com/SLOW429/HR-WELLCOME-bot)
+
+### Currently Exploring
+
+- Advanced Java development
+- Backend architecture and API design
+- Docker and self-hosted infrastructure
+- Cloud deployment
+- Performance optimization
+
+### Philosophy
+
+> Build things that work. Keep learning. Never stop improving.
+
+### Connect With Me
+
+- **GitHub:** [@SLOW429](https://github.com/SLOW429)
+- **Website:** [slows.dev](https://slows.dev)
 
 ---
 
-##  Discord Bot
-
-🔗 https://github.com/SLOW429/discord-bot
-
-Multipurpose Discord bot.
-
----
-
-##  HR Welcome Bot
-
-🔗 https://github.com/SLOW429/HR-WELLCOME-bot
-
-Automated welcome system for HR Discord servers.
-
----
-
-#  Current Focus
-
--  Full Stack Applications
--  Performance Optimization
--  Discord Automation
--  Cloud Deployment
-
----
-
-#  Contact
-
-GitHub:
-https://github.com/SLOW429
-
-Website:
-https://slows.dev
-
----
-
- Thanks for visiting my profile!
+<p align="center">
+  <sub>Building, experimenting, and improving — one commit at a time.</sub>
+</p>
