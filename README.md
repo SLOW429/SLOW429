@@ -1,7 +1,3 @@
- <p align="center">
-  <img src="assets/banner.png" alt="Abdellatif Banner" width="100%" />
-</p>
-
 <h1 align="center">Hey, I'm Abdellatif </h1>
 
 <h3 align="center">
